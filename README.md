@@ -7,6 +7,7 @@
 </p>
 
 Me chamo Felipe Cabral de Aquino, tenho 19 anos e sou natural de São Paulo. Formado como Técnico em Informática pra internet pela **ETEC Adhemar Batista Heméritas**, hoje foco meus estudos em Engenharia de Software e no ecossistema BackEnd.
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -27,8 +28,8 @@ Me chamo Felipe Cabral de Aquino, tenho 19 anos e sou natural de São Paulo. For
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=guifernandes72&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifernandes72&theme=tokyonight&layout=compact&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=felipe-cabral2511&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-cabral2511&theme=tokyonight&layout=compact&langs_count=8" />
 </p>
 
 ---
@@ -36,7 +37,7 @@ Me chamo Felipe Cabral de Aquino, tenho 19 anos e sou natural de São Paulo. For
 ### 📫 Vamos nos conectar?
 
 <p align="left">
-<a href="https://www.linkedin.com/in/guilhermefernandeslima/">
+<a href="https://www.linkedin.com/in/aquinofelipe/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjnKZZrhsGCLGHdsqlgrmZMHjpcnsvTHrgmzJkmRHmmtxgcZCGjhnSndNrghPKWcVDDVq"_blank">
