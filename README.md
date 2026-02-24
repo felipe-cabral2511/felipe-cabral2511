@@ -25,15 +25,6 @@ Me chamo Felipe Cabral de Aquino, tenho 19 anos e sou natural de São Paulo. For
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=felipe-cabral2511&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-cabral2511&theme=tokyonight&layout=compact&langs_count=8" />
-</p>
-
----
-
 ### 📫 Vamos nos conectar?
 
 <p align="left">
