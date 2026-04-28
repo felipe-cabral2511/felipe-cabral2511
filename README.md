@@ -44,7 +44,7 @@
   <h3>* GitHub Stats *</h3>
   <br>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipe-cabral2511&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-cabral2511&layout=compact&langs_count=6&hide_title=false&count_private=true&title_color=1E90FF&text_color=8B8B8B&bg_color=0d1117&border_color=1E90FF30&border_radius=8" alt="Most Used Languages">
+  ![felipe-cabral2511's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-cabral2511&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 #
