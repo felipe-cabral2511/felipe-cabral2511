@@ -46,3 +46,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-cabral2511&show_icons=true&count_private=true&hide_title=false&title_color=1E90FF&text_color=FFF&icon_color=1E90FF&bg_color=0d1117&border_color=1E90FF30&border_radius=8&locale=en&custom_title=Felipe+Cabral's+GitHub+Stats" alt="Felipe Cabral's GitHub Stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-cabral2511&layout=compact&langs_count=6&hide_title=false&count_private=true&title_color=1E90FF&text_color=8B8B8B&bg_color=0d1117&border_color=1E90FF30&border_radius=8" alt="Most Used Languages">
 </div>
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipe-cabral2511/felipe-cabral2511/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipe-cabral2511/felipe-cabral2511/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/felipe-cabral2511/felipe-cabral2511/output/github-contribution-grid-snake.svg">
+</picture>
